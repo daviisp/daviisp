@@ -4,12 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+FullStack;+https://arthur-candeia.com.br/;+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/daviisp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviisp&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&theme=dark&layout=compact"/>
-    
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=daviisp&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&show_icons=true&theme=dark&layout=compact" />
+ </div>
   
  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Davi-HTML" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
