@@ -18,7 +18,7 @@
     <img align="center" alt="Davi-CSS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
     <img align="center" alt="Davi-SASS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
     <img align="center" alt="Davi-TailwindCSS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TalwindCSS"/>
-    <img align="center" alt="Davi-BootStrap" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap">
+    <img align="center" alt="Davi-Bootstrap" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
     <img align="center" alt="Davi-React" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
     <img align="center" alt="Davi-Next" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
     <img align="center" alt="Davi-NodeJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS">
