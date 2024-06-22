@@ -24,6 +24,7 @@
     <img align="center" alt="Davi-Next" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
     <img align="center" alt="Davi-NodeJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS">
     <img align="center" alt="Davi-ExpressJS" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS">
+    <img align="center" alt="Davi-Prisma" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
     <img align="center" alt="Davi-Mongoose" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose">
     <img align="center" alt="Davi-MongoDB" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
     <img align="center" alt="Davi-GIT" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
