@@ -14,7 +14,7 @@
     <img align="center" alt="Davi-TS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
     <img align="center" alt="Davi-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
     <img align="center" alt="Davi-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-    <img align="center" alt="Davi-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons  /devicon/icons/html5/html5-original.svg" title="HTML5">
+    <img align="center" alt="Davi-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
     <img align="center" alt="Davi-XML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" title="XML"/>
     <img align="center" alt="Davi-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
     <img align="center" alt="Davi-SASS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
