@@ -30,7 +30,9 @@
     <img align="center" alt="Davi-MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
     <img align="center" alt="Davi-GIT" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
 </div>  
+
+
   ##
   #### Contato &#x2709;
-   <a href="https://portfolio-davidev.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="blank"></a>
+  <a href="https://portfolio-davidev.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="blank"></a>
   <a href="https://www.linkedin.com/in/daviisp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
