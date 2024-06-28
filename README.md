@@ -9,28 +9,27 @@
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&show_icons=true&theme=dark&layout=compact" />
  </div>
   
- <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Davi-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
-    <img align="center" alt="Davi-TS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
-    <img align="center" alt="Davi-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-    <img align="center" alt="Davi-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-    <img align="center" alt="Davi-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-    <img align="center" alt="Davi-XML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" title="XML"/>
-    <img align="center" alt="Davi-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
-    <img align="center" alt="Davi-SASS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Davi-JS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+    <img align="center" alt="Davi-TS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
+    <img align="center" alt="Davi-MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+    <img align="center" alt="Davi-MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+    <img align="center" alt="Davi-HTML" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
+    <img align="center" alt="Davi-XML" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" title="XML"/>
+    <img align="center" alt="Davi-CSS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
+    <img align="center" alt="Davi-SASS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
     <img align="center" alt="Davi-TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TalwindCSS"/>
-    <img align="center" alt="Davi-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
-    <img align="center" alt="Davi-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
-    <img align="center" alt="Davi-Next" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
-    <img align="center" alt="Davi-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS">
-    <img align="center" alt="Davi-ExpressJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS">
-    <img align="center" alt="Davi-Fastify" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" title="Fastify">
-    <img align="center" alt="Davi-Prisma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
-    <img align="center" alt="Davi-Mongoose" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose">
-    <img align="center" alt="Davi-MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
-    <img align="center" alt="Davi-GIT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
+    <img align="center" alt="Davi-Bootstrap" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+    <img align="center" alt="Davi-React" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
+    <img align="center" alt="Davi-Next" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
+    <img align="center" alt="Davi-NodeJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS">
+    <img align="center" alt="Davi-ExpressJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS">
+    <img align="center" alt="Davi-Fastify" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" title="Fastify">
+    <img align="center" alt="Davi-Prisma" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
+    <img align="center" alt="Davi-Mongoose" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose">
+    <img align="center" alt="Davi-MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
+    <img align="center" alt="Davi-GIT" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
 </div>  
-  
   ##
   #### Contato &#x2709;
    <a href="https://portfolio-davidev.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="blank"></a>
