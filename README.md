@@ -23,7 +23,7 @@
     <img align="center" alt="Davi-React" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
     <img align="center" alt="Davi-Next" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next">
     <img align="center" alt="Davi-NodeJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js">
-    <img align="center" alt="Davi-ExpressJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js">
+    <img align="center" alt="Davi-ExpressJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express">
     <img align="center" alt="Davi-Fastify" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" title="Fastify">
     <img align="center" alt="Davi-Prisma" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
     <img align="center" alt="Davi-Mongoose" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose">
