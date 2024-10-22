@@ -22,6 +22,7 @@
     <img align="center" alt="Davi-Bootstrap" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
     <img align="center" alt="Davi-React" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
     <img align="center" alt="Davi-Next" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js">
+    <img align="center" alt="Davi-Vue" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue">
     <img align="center" alt="Davi-NodeJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js">
     <img align="center" alt="Davi-ExpressJS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express">
     <img align="center" alt="Davi-Fastify" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" title="Fastify">
