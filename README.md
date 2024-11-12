@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4dff91&text=https://www.portfolio-davi-dev.com&reversal=false&fontColor=e2e2e2&fontSize=20&fontAlignY=40"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+https%3A%2F%2Fwww.portfolio-davi-dev.com%2F;+Sou+desenvolvedor+de+software;)](https://www.portfolio-davi-dev.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+https%3A%2F%2Fwww.portfolio-davi-dev.com%2F;+Sou+desenvolvedor+de+software;)](https://www.portfolio-davi-dev.com)
 
 
 
