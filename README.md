@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4dff91&text=https://www.portfolio-davi-dev.com&reversal=false&fontColor=e2e2e2&fontSize=20&fontAlignY=40"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+[https://portfolio-davidev.vercel.app/](https://www.portfolio-davi-dev.com/);+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+[https://www.portfolio-davi-dev.com/](https://www.portfolio-davi-dev.com/);+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=daviisp&theme=dark&mode=weekly" />
