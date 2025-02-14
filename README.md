@@ -6,10 +6,11 @@
 
 
 
-<div align="center" style="margin-bottom:100px">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=daviisp&theme=dark&mode=weekly" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&show_icons=true&theme=dark&layout=compact" />
- </div>
+<div align="center">
+  <a href="https://github.com/daviisp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviisp&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&theme=dark&layout=compact"/>
+</div>
   
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Davi-JS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
