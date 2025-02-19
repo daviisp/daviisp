@@ -18,7 +18,6 @@
     <img align="center" alt="Davi-PostgreSQL" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
     <img align="center" alt="Davi-MongoDB" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
     <img align="center" alt="Davi-HTML" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-    <img align="center" alt="Davi-XML" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" title="XML"/>
     <img align="center" alt="Davi-CSS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
     <img align="center" alt="Davi-SASS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS">
     <img align="center" alt="Davi-TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS"/>
