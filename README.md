@@ -31,7 +31,6 @@
     <img align="center" alt="Davi-Prisma" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma">
     <img align="center" alt="Davi-Sequelize" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize">
     <img align="center" alt="Davi-Mongoose" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose">
-    <img align="center" alt="Davi-GIT" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
 </div>  
 
   ##
