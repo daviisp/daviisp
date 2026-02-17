@@ -2,15 +2,15 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4dff91&text=https://portfolio-davi-dev.com&reversal=false&fontColor=e2e2e2&fontSize=20&fontAlignY=40"/>
 </a>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+https%3A%2F%2Fportfolio-davi-dev.com;+Sou+desenvolvedor+de+software;)](https://www.portfolio-davi-dev.com) !-->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Davi+Silva;+Sou+um+Desenvolvedor+Full+Stack;+https%3A%2F%2Fportfolio-davi-dev.com;+Sou+desenvolvedor+de+software;)](https://www.portfolio-davi-dev.com) 
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/daviisp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviisp&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&theme=dark&layout=compact"/>
-</div>
+</div> !-->
   
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Davi-JS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
