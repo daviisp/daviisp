@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviisp&theme=dark&layout=compact"/>
 </div> !-->
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex" align="center"><br>
     <img align="center" alt="Davi-JS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
     <img align="center" alt="Davi-TS" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
     <img align="center" alt="Davi-PostgreSQL" height="34" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
